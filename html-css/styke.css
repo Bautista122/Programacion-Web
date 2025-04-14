@@ -5,7 +5,7 @@ h1 {
     text-align: center; /* Alineación del texto */
     }
 
-button{
+button {
     color: #2b2a2b; /* Color del texto */
     font-size: 15px; /* Tamaño de fuente */
     font-family: Arial, sans-serif; /* Tipo de letra */
@@ -15,7 +15,7 @@ button{
     min-height: 25px;
     }
 
-.contenedor-input{
+.contenedor-input {
 
 }
 
@@ -51,8 +51,10 @@ h3{
     width: 400px;
     font-size: 11px;
     border-radius: 5px;
+    margin: 450px;
+    
 }
 
 .contenedor3{
     background-color: #bde7ff
-}
+} 
